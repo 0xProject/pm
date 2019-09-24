@@ -6,9 +6,10 @@ The 0x Ecosystem Developer meeting is a monthly gathering of the global teams wh
 Anyone who is currently building, or is interested in building, on the 0x protocol is welcome to participate. Please note that this meeting is not for technical support. If you need help with your project, our official [Discord Chat](https://link.0x.org/Discord) is your best resource.
 
 ### Agenda Items
-Meeting agendas are posted to https://github.com/0xProject/pm/issues. We welcome participants to provide feedback on, or ask questions about, any of the upcoming agenda items. If there is a topic that you would like us to discuss during the meeting, you are also welcome to suggest it in the comments.
+Meeting agendas are posted to github.com/0xProject/pm/issues. We welcome participants to provide feedback on, or ask questions about, any of the upcoming agenda items. If there is a topic that you would like us to discuss during the meeting, you are also welcome to suggest it in the comments.
 
 ### Meetings
+[Sync the calendar](https://support.google.com/calendar/answer/37648?hl=en) to keep up to date with upcoming meetings: link.0x.org/DevMtg-Schedule
 
  №  | Date                             |           |           |           |
 --- | -------------------------------- | -------- | -------- | ----------- |
