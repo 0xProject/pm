@@ -21,8 +21,8 @@ Meeting agendas are posted to https://github.com/0xProject/pm/issues. We welcome
  15 | April 9, 2019 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/15) | [recording](https://youtu.be/ZpaJmis43fc) |
  14 | March 5, 2019 22:00 UTC | [agenda](https://github.com/0xProject/pm/issues/14) | [recording](https://youtu.be/5wTvAdZNxRA) |
  13 | February 5, 2019 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/13) | [recording](https://youtu.be/yYRigm-IiYA) |
- 12 | January 7, 2019 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/12) | [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2069.md) | [recording](https://www.youtube.com/watch?v=yO0WdT-J64w) |
- 11 | December 3, 2018 22:00 UTC | [agenda](https://github.com/0xProject/pm/issues/11) | [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2068.md) | [recording](https://www.youtube.com/watch?v=08eaI8JjSbw) |
+ 12 | January 7, 2019 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/12) || [recording](https://www.youtube.com/watch?v=yO0WdT-J64w) |
+ 11 | December 3, 2018 22:00 UTC | [agenda](https://github.com/0xProject/pm/issues/11) || [recording](https://www.youtube.com/watch?v=08eaI8JjSbw) |
  10 | October 22, 2018 22:00 UTC | [agenda](https://github.com/0xProject/pm/issues/10) | [slides](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2068.md) |
  09 | October 1, 2018 06:00 UTC | [agenda](https://github.com/0xProject/pm/issues/9) | [slides](https://docs.google.com/presentation/d/149tVP7JUrMoyyKsgi_jneJm6XJ2hqcHDM4CYEoGN4wI/edit?usp=sharing) |
  08 | August 27, 2018 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/8) |
