@@ -1,6 +1,12 @@
 # 0x Ecosystem Developer Meetings
 ### Purpose
-The all core devs meeting is a technical meeting intended to bring together various Ethereum teams who play major roles in determining the direction of the protocol. Ethereum client and research teams provide updates to their projects, discuss various [EIPs](https://eips.ethereum.org/) to improve the protocol, and support each other as we **buidl** Web 3.0.
+The 0x Ecosystem Developer meeting is a monthly call with the global teams who are building decentralized applications using the 0x protocol. The 0x Core Team shares the latest development updates from the project, discuss various [ZEIPs](https://github.com/0xProject/ZEIPs) to improve the protocol, and everyone supports each other was we collectively build the tokenized future.
+
+### Who Can Attend
+Anyone who is building on the 0x protocol is welcome to participate. Please note that this meeting is not for technical support. If you need help with using 0x, our official [Discord Chat](https://link.0x.org/Discord) is your best resource.
+
+### Agenda Items
+Meeting agendas are posted to https://github.com/0xProject/pm/issues. We welcome participants to provide feedback on, or ask questions about, any of the upcoming agenda items. If there is a topic that you would like us to discuss during the meeting, you are also welcome to suggest it in the comments.
 
 ### Meetings
 
@@ -27,17 +33,3 @@ The all core devs meeting is a technical meeting intended to bring together vari
  03 | March 26, 2018 06:00 UTC | [agenda](https://github.com/0xProject/pm/issues/3) \| [recording](https://drive.google.com/open?id=1hxva9HiKxHSQv0BRYrsF50uejYOUAnF_) |
  02 | February 26, 2018 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/2) \| [recording](https://drive.google.com/file/d/1V-l0ouY9nnCHa1vF7Q7g3w_RiwNnu49C/view) |
  01 | January 29, 2018 22:00 UTC | [agenda](https://github.com/0xProject/pm/issues/1) \| [audio](https://drive.google.com/file/d/1Y_q6ko_j-ntHZ_pZhK67VXgnlLLxlvLK/view) |
-
-
-### Who Can Attend
-Low-level protocol developers, client developers, and core Ethereum researchers are invited to attend the meetings. Generally every Ethereum client is represented as well as key members of Layer 1 research/scaling teams. Sometimes a non-core developer with particular expertise on a topic is invited on to discuss a specific agenda item. If you feel you would contribute to the meetings by your attendance please reach out to Hudson Jameson at hudson@ethereum.org.
-
-### Agenda Items
-Agenda's are posted to https://github.com/ethereum/pm/issues. Anyone is welcome to add an item to the agenda as long as it follows these guidelines:
-- The topic is technical in nature.
-- The topic involves the Ethereum protocol at a low-level. This means Dapps and ERCs are generally not allowed as topics.
-- The topic should not be philosophical. The core developer meetings are not meant to decide philosophical contentious issues that should be decided by the community. There are exceptions to this, but generally these topics distract from more productive technical discussion.
-
-### Who Manages the Meetings
-In the beginning (2015-fall 2016) George Hallam facilitated the meetings. Since the fall of 2016 Hudson Jameson has facilitated and recorded the meetings. In early 2018 Lane Rettig joined to help facilitate meetings, handle recordings, and publish notes from the meetings.
-The meetings are independent of any organization. However, Hudson Jameson is a contractor for the Ethereum Foundation and the Ethereum Foundation pays for the videoconference software used in the meetings. Livestreaming instruction for the meetings can be found [here](https://docs.google.com/document/d/1dF_Drs56ErV6wJgFmbzpdN-cINshKCsB61D92NS2JDg/edit).
