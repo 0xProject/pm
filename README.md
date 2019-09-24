@@ -6,7 +6,7 @@ The all core devs meeting is a technical meeting intended to bring together vari
 
  №  | Date                             | Notes          |
 --- | -------------------------------- | -------------- |
- 21 | UPCOMING: Octobere 10, 2019 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/21) | 
+ 21 | UPCOMING: October 10, 2019 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/21) | 
  20 | September 3, 2019 22:00 UTC | [agenda](https://github.com/0xProject/pm/issues/20) \| [slides](https://link.0x.org/2019-09_DevMtg) \| [recording](https://youtu.be/h0BH0ovIbwo) |
  19 | August 7, 2019 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/19) \| [slides](https://link.0x.org/2019-08_DevMtg) \| [recording](https://youtu.be/isbzlNG-CGI) |
  18 | July 2, 2017 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/18) \| [slides](https://link.0x.org/2019-07-02_DevMtg) \| [recording](https://youtu.be/ZUEGhjhbb2Q) |
