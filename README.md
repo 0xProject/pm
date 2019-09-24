@@ -22,7 +22,7 @@ Meeting agendas are posted to [github.com/0xProject/pm/issues](github.com/0xProj
  15 | April 9, 2019 20:30 UTC | [agenda](https://github.com/0xProject/pm/issues/15) || [recording](https://youtu.be/ZpaJmis43fc) |
  14 | March 5, 2019 20:30 UTC | [agenda](https://github.com/0xProject/pm/issues/14) || [recording](https://youtu.be/5wTvAdZNxRA) |
  13 | February 5, 2019 20:30 UTC | [agenda](https://github.com/0xProject/pm/issues/13) || [recording](https://youtu.be/yYRigm-IiYA) |
- 12 | January 7, 2019 19:30 UTC | [agenda](https://github.com/0xProject/pm/issues/12) || [recording](https://www.youtube.com/watch?v=yO0WdT-J64w) |
+ 12 | January 7, 2019 19:30 UTC | [agenda](https://github.com/0xProject/pm/issues/12) |
  11 | December 3, 2018 19:30 UTC | [agenda](https://github.com/0xProject/pm/issues/11) |
  10 | October 22, 2018 19:30 UTC | [agenda](https://github.com/0xProject/pm/issues/10) | [slides](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2068.md) |
  09 | October 1, 2018 19:30 UTC | [agenda](https://github.com/0xProject/pm/issues/9) | [slides](https://docs.google.com/presentation/d/149tVP7JUrMoyyKsgi_jneJm6XJ2hqcHDM4CYEoGN4wI/edit?usp=sharing) |
