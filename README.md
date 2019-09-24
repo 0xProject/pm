@@ -28,8 +28,8 @@ Meeting agendas are posted to https://github.com/0xProject/pm/issues. We welcome
  08 | August 27, 2018 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/8) |
  07 | August 6, 2018 22:00 UTC | [agenda](https://github.com/0xProject/pm/issues/7) | [slides](https://docs.google.com/presentation/d/1avtR7DJF5ZX2Y1X5Z0FQjyWx8Bm0StgoCnjz_ak2LII/edit?usp=sharing) |
  06 | June 25, 2018 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/6) |
- 05 | May 29, 2018 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/5) \| [slides](https://docs.google.com/presentation/d/1cbe1KGRHe9uhz-Qa1ijvvvFxteCdNsyP8lzHiBjJ7z0/edit?usp=sharingd) | [audio](https://drive.google.com/file/d/1vR_vCD6lI6Z7JmPdP5tSkNWKP3N_O9Ur/view) |
- 04 | April 23, 2018 22:00 UTC | [agenda](https://github.com/0xProject/pm/issues/4) \| [slides](https://docs.google.com/presentation/d/16lIPxv8xIwd_kN0IQuIJWyM-hVU6nvZHSzgfTq6OzBo/edit?usp=sharing) | [recording](https://drive.google.com/open?id=1Am_sE56G6smT0piLlBEHc7sTs5EmPVdl) |
- 03 | March 26, 2018 06:00 UTC | [agenda](https://github.com/0xProject/pm/issues/3) \| [recording](https://drive.google.com/open?id=1hxva9HiKxHSQv0BRYrsF50uejYOUAnF_) |
- 02 | February 26, 2018 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/2) \| [recording](https://drive.google.com/file/d/1V-l0ouY9nnCHa1vF7Q7g3w_RiwNnu49C/view) |
- 01 | January 29, 2018 22:00 UTC | [agenda](https://github.com/0xProject/pm/issues/1) \| [audio](https://drive.google.com/file/d/1Y_q6ko_j-ntHZ_pZhK67VXgnlLLxlvLK/view) |
+ 05 | May 29, 2018 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/5) | [slides](https://docs.google.com/presentation/d/1cbe1KGRHe9uhz-Qa1ijvvvFxteCdNsyP8lzHiBjJ7z0/edit?usp=sharingd) || [audio](https://drive.google.com/file/d/1vR_vCD6lI6Z7JmPdP5tSkNWKP3N_O9Ur/view) |
+ 04 | April 23, 2018 22:00 UTC | [agenda](https://github.com/0xProject/pm/issues/4) | [slides](https://docs.google.com/presentation/d/16lIPxv8xIwd_kN0IQuIJWyM-hVU6nvZHSzgfTq6OzBo/edit?usp=sharing) | [recording](https://drive.google.com/open?id=1Am_sE56G6smT0piLlBEHc7sTs5EmPVdl) |
+ 03 | March 26, 2018 06:00 UTC | [agenda](https://github.com/0xProject/pm/issues/3) || [recording](https://drive.google.com/open?id=1hxva9HiKxHSQv0BRYrsF50uejYOUAnF_) |
+ 02 | February 26, 2018 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/2) || [recording](https://drive.google.com/file/d/1V-l0ouY9nnCHa1vF7Q7g3w_RiwNnu49C/view) |
+ 01 | January 29, 2018 22:00 UTC | [agenda](https://github.com/0xProject/pm/issues/1) || [audio](https://drive.google.com/file/d/1Y_q6ko_j-ntHZ_pZhK67VXgnlLLxlvLK/view) |
