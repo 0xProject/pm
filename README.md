@@ -4,28 +4,28 @@ The all core devs meeting is a technical meeting intended to bring together vari
 
 ### Previous Meetings
 
- №  | Date                             | Agenda          |
+ №  | Date                             | Notes          |
 --- | -------------------------------- | -------------- |
  20 | Octobere 10, 2019 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/21) \| [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2066.md) | 
- 19 | September 3, 2019 22:00 UTC | [agenda](https://github.com/0xProject/pm/issues/20) \| [slides](https://www.youtube.com/redirect?redir_token=bCXMZlspLx_ktXpHkaE45Gq6RyB8MTU2OTM5MzE4MEAxNTY5MzA2Nzgw&q=https%3A%2F%2Flink.0x.org%2F2019-09_DevMtg&event=video_description&v=h0BH0ovIbwo) \| [video](https://youtu.be/h0BH0ovIbwo) |
- 19 | August 7, 2019 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/19) \| [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2070.md) | [video](https://youtu.be/h0BH0ovIbwo) |
- 18 | July 2, 2017 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/18) \| [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2069.md) | [video](https://www.youtube.com/watch?v=yO0WdT-J64w) |
- 17 | June 4, 2019 22:00 UTC | [agenda](https://github.com/0xProject/pm/issues/17) \| [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2068.md) | [video](https://www.youtube.com/watch?v=08eaI8JjSbw) |
- 16 | May 7, 2019 06:00 UTC | [agenda](https://github.com/0xProject/pm/issues/16) \| [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2067.md) | [video](https://www.youtube.com/watch?v=fJd_xYnYrUU) |
- 15 | April 9, 2019 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/15) \| [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2066.md) | [video](https://www.youtube.com/watch?v=DzmfR2P9kFk) |
- 14 | March 5, 2019 22:00 UTC | [agenda](https://github.com/0xProject/pm/issues/14) \| [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2065.md) | [video](https://www.youtube.com/watch?v=41kiRf1E-jI) |
- 13 | February 5, 2019 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/13) \| [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2070.md) | [video](https://www.youtube.com/watch?v=6m0So81_j2Q) |
- 12 | January 7, 2019 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/12) \| [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2069.md) | [video](https://www.youtube.com/watch?v=yO0WdT-J64w) |
- 11 | Decembere 3, 2018 22:00 UTC | [agenda](https://github.com/0xProject/pm/issues/11) \| [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2068.md) | [video](https://www.youtube.com/watch?v=08eaI8JjSbw) |
- 10 | October 22, 2018 22:00 UTC | [agenda](https://github.com/0xProject/pm/issues/10) \| [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2068.md) | [video](https://www.youtube.com/watch?v=08eaI8JjSbw) |
- 09 | October 1, 2018 06:00 UTC | [agenda](https://github.com/0xProject/pm/issues/9) \| [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2067.md) | [video](https://www.youtube.com/watch?v=fJd_xYnYrUU) |
- 08 | August 27, 2018 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/8) \| [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2066.md) | [video](https://www.youtube.com/watch?v=DzmfR2P9kFk) |
- 07 | August 6, 2018 22:00 UTC | [agenda](https://github.com/0xProject/pm/issues/7) \| [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2065.md) | [video](https://www.youtube.com/watch?v=41kiRf1E-jI) |
- 06 | June 25, 2018 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/6) \| [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2070.md) | [video](https://www.youtube.com/watch?v=6m0So81_j2Q) |
- 05 | May 29, 2018 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/5) \| [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2069.md) | [video](https://www.youtube.com/watch?v=yO0WdT-J64w) |
- 04 | April 23, 2018 22:00 UTC | [agenda](https://github.com/0xProject/pm/issues/4) \| [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2068.md) | [video](https://www.youtube.com/watch?v=08eaI8JjSbw) |
- 03 | March 26, 2018 06:00 UTC | [agenda](https://github.com/0xProject/pm/issues/3) \| [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2067.md) | [video](https://www.youtube.com/watch?v=fJd_xYnYrUU) |
- 02 | February 26, 2018 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/2) \| [video](https://drive.google.com/file/d/1V-l0ouY9nnCHa1vF7Q7g3w_RiwNnu49C/view) |
+ 19 | September 3, 2019 22:00 UTC | [agenda](https://github.com/0xProject/pm/issues/20) \| [slides](https://link.0x.org/2019-09_DevMtg) \| [recording](https://youtu.be/h0BH0ovIbwo) |
+ 19 | August 7, 2019 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/19) \| [slides](https://link.0x.org/2019-08_DevMtg) | [recording](https://youtu.be/isbzlNG-CGI) |
+ 18 | July 2, 2017 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/18) \| [slides](https://link.0x.org/2019-07-02_DevMtg) | [recording](https://youtu.be/ZUEGhjhbb2Q) |
+ 17 | June 4, 2019 22:00 UTC | [agenda](https://github.com/0xProject/pm/issues/17) \| [slides](https://link.0x.org/2019-06-04_DevMtg) | [recording](https://youtu.be/I-rfcpeSiXg) |
+ 16 | May 7, 2019 06:00 UTC | [agenda](https://github.com/0xProject/pm/issues/16) \| [recording](https://youtu.be/GpnzfZ9Ss70) |
+ 15 | April 9, 2019 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/15) \| [recording](https://youtu.be/ZpaJmis43fc) |
+ 14 | March 5, 2019 22:00 UTC | [agenda](https://github.com/0xProject/pm/issues/14) \| [recording](https://youtu.be/5wTvAdZNxRA) |
+ 13 | February 5, 2019 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/13) \| [recording](https://youtu.be/yYRigm-IiYA) |
+ 12 | January 7, 2019 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/12) \| [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2069.md) | [recording](https://www.youtube.com/watch?v=yO0WdT-J64w) |
+ 11 | December 3, 2018 22:00 UTC | [agenda](https://github.com/0xProject/pm/issues/11) \| [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2068.md) | [recording](https://www.youtube.com/watch?v=08eaI8JjSbw) |
+ 10 | October 22, 2018 22:00 UTC | [agenda](https://github.com/0xProject/pm/issues/10) \| [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2068.md) | [recording](https://www.youtube.com/watch?v=08eaI8JjSbw) |
+ 09 | October 1, 2018 06:00 UTC | [agenda](https://github.com/0xProject/pm/issues/9) \| [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2067.md) | [recording](https://www.youtube.com/watch?v=fJd_xYnYrUU) |
+ 08 | August 27, 2018 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/8) \| [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2066.md) | [recording](https://www.youtube.com/watch?v=DzmfR2P9kFk) |
+ 07 | August 6, 2018 22:00 UTC | [agenda](https://github.com/0xProject/pm/issues/7) \| [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2065.md) | [recording](https://www.youtube.com/watch?v=41kiRf1E-jI) |
+ 06 | June 25, 2018 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/6) \| [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2070.md) | [recording](https://www.youtube.com/watch?v=6m0So81_j2Q) |
+ 05 | May 29, 2018 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/5) \| [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2069.md) | [recording](https://www.youtube.com/watch?v=yO0WdT-J64w) |
+ 04 | April 23, 2018 22:00 UTC | [agenda](https://github.com/0xProject/pm/issues/4) \| [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2068.md) | [recording](https://www.youtube.com/watch?v=08eaI8JjSbw) |
+ 03 | March 26, 2018 06:00 UTC | [agenda](https://github.com/0xProject/pm/issues/3) \| [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2067.md) | [recording](https://www.youtube.com/watch?v=fJd_xYnYrUU) |
+ 02 | February 26, 2018 14:00 UTC | [agenda](https://github.com/0xProject/pm/issues/2) \| [recording](https://drive.google.com/file/d/1V-l0ouY9nnCHa1vF7Q7g3w_RiwNnu49C/view) |
  01 | January 29, 2018 22:00 UTC | [agenda](https://github.com/0xProject/pm/issues/1) \| [audio](https://drive.google.com/file/d/1Y_q6ko_j-ntHZ_pZhK67VXgnlLLxlvLK/view) |
 
 
