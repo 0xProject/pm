@@ -3,7 +3,7 @@
 The 0x Ecosystem Developer meeting is a monthly gathering of the global projects who are building decentralized applications using the 0x protocol. The 0x Core Team shares the latest development updates, discuss various [ZEIPs](https://github.com/0xProject/ZEIPs) to improve the protocol, and answer questions from the community. While there is always a formal agenda, the meeting is intended to be an open conversation where project teams are encouraged to openly share their thoughts on the development of the protocol.
 
 ### Who Can Attend
-Anyone who is currently building, or is interested in building, on the 0x protocol is welcome to participate. Please note that this meeting is not for technical support. If you need help with your project, our official [Discord Chat](https://link.0x.org/Discord) is your best resource.
+Anyone who is currently building, or is interested in building, on 0x is welcome to participate. Please note that this meeting is not for technical support. If you need help with your project, our official [Discord Chat](https://link.0x.org/Discord) is your best resource.
 
 ### Agenda Items
 Meeting agendas are posted to [github.com/0xProject/pm/issues](https://github.com/0xProject/pm/issues). We encourge participants to provide feedback on the agenda or ask questions they have for the 0x Core Team, by posting a comment. Also, if there is a topic that you'd like us to discuss during the meeting, you're welcome to suggest it prior to the meeting.
