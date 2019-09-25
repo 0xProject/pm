@@ -9,7 +9,7 @@ Anyone who is currently building, or is interested in building, on the 0x protoc
 Meeting agendas are posted to [github.com/0xProject/pm/issues](github.com/0xProject/pm/issues). We encourge participants to provide feedback on the agenda or ask questions they have for the 0x Core Team, by posting a comment. Also, if there is a topic that you'd like us to discuss during the meeting, you're welcome to suggest it prior to the meeting.
 
 ### Meetings
-[Sync the calendar](https://support.google.com/calendar/answer/37648?hl=en) to keep up to date with upcoming meetings: [link.0x.org/DevMtg-Schedule](link.0x.org/DevMtg-Schedule)
+[Sync the calendar](https://support.google.com/calendar/answer/37648?hl=en) to keep up to date with upcoming meetings: [link.0x.org/DevMtg-Schedule](https://link.0x.org/DevMtg-Schedule)
 
  №  | Date                             |           |           |           |
 --- | -------------------------------- | -------- | -------- | ----------- |
