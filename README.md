@@ -13,6 +13,7 @@ Meeting agendas are posted to [github.com/0xProject/pm/issues](https://github.co
 
  №  | Date                             |           |           |           |
 --- | -------------------------------- | -------- | -------- | ----------- |
+ 22 | UPCOMING: November 04, 2019 20:30 UTC | | |
  21 | October 01, 2019 21:00 UTC | [agenda](https://github.com/0xProject/pm/issues/21) | [slides](https://drive.google.com/open?id=1ox6SuwqrEhu-Pcc6mRPmiDECykRnhpQc) |
  20 | September 3, 2019 21:00 UTC | [agenda](https://github.com/0xProject/pm/issues/20) | [slides](https://link.0x.org/2019-09_DevMtg) | [recording](https://youtu.be/h0BH0ovIbwo) | 
  19 | August 7, 2019 22:00 UTC | [agenda](https://github.com/0xProject/pm/issues/19) | [slides](https://link.0x.org/2019-08_DevMtg) | [recording](https://youtu.be/isbzlNG-CGI) |
