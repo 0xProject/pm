@@ -1,4 +1,4 @@
-# 0x Ecosystem Developer Meetings
+## 0x Ecosystem Developer Meetings
 ### Purpose
 The 0x Ecosystem Developer meeting is a monthly gathering of the global projects who are building decentralized applications using the 0x protocol. The 0x Core Team will share the latest development updates, discuss various [ZEIPs](https://github.com/0xProject/ZEIPs) to improve the protocol, and answer questions from the community. While there is always a formal agenda, the meeting is intended to be an open conversation where project teams are encouraged to share their thoughts on the development of the protocol.
 
