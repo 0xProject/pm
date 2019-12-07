@@ -14,7 +14,7 @@ Meeting agendas are posted to [github.com/0xProject/pm/issues](https://github.co
  №  | Date                             |           |           |           |
 --- | -------------------------------- | -------- | -------- | ----------- |
  23 | UPCOMING: January 07, 2020 22:00 UTC (2:00 PM PT) |  |  | 
- 22 | December 04, 2019 22:00 UTC (2:00 PM PT) | [agenda](https://github.com/0xProject/pm/issues/22) | [slides](https://drive.google.com/file/d/1drUqRedfF1aLD6QMKemRvJj03QjRCYg1/view?usp=sharing) | [Recording](https://youtu.be/VmOdu_eB9RY)
+ 22 | December 04, 2019 22:00 UTC (2:00 PM PT) | [agenda](https://github.com/0xProject/pm/issues/22) | [slides](https://drive.google.com/file/d/1drUqRedfF1aLD6QMKemRvJj03QjRCYg1/view?usp=sharing) | [recording](https://youtu.be/VmOdu_eB9RY)
  -- | CANCELLED: November 04, 2019 20:30 UTC (1:30 PM PT) | | |
  21 | October 01, 2019 21:00 UTC (2:00 PM PT) | [agenda](https://github.com/0xProject/pm/issues/21) | [slides](https://drive.google.com/open?id=1ox6SuwqrEhu-Pcc6mRPmiDECykRnhpQc) | [recording](https://youtu.be/vNaCxl0vvh0) |
  20 | September 3, 2019 21:00 UTC (2:00 PM PT) | [agenda](https://github.com/0xProject/pm/issues/20) | [slides](https://link.0x.org/2019-09_DevMtg) | [recording](https://youtu.be/h0BH0ovIbwo) | 
