@@ -40,4 +40,4 @@ Meeting agendas are posted to [github.com/0xProject/pm/issues](https://github.co
  03 | March 26, 2018 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/3) || [recording (audio-only)](https://drive.google.com/open?id=1hxva9HiKxHSQv0BRYrsF50uejYOUAnF_) |
  02 | February 26, 2018 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/2) || [recording (audio-only)](https://drive.google.com/file/d/1V-l0ouY9nnCHa1vF7Q7g3w_RiwNnu49C/view) |
  01 | January 29, 2018 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/1) | <div align="center">
--</div>| [recording (audio-only)](https://drive.google.com/file/d/1Y_q6ko_j-ntHZ_pZhK67VXgnlLLxlvLK/view) |
+-</div> | [recording (audio-only)](https://drive.google.com/file/d/1Y_q6ko_j-ntHZ_pZhK67VXgnlLLxlvLK/view) |
