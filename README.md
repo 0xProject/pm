@@ -13,7 +13,7 @@ Meeting agendas are posted to [github.com/0xProject/pm/issues](https://github.co
 
  №  | Date                             |           |           |           |
 --- | -------------------------------- | -------- | -------- | ----------- |
- 26 | April 7, 2020 17:00 UTC (10:00 AM PT) |  |  | 
+ 26 | April 7, 2020 17:00 UTC (10:00 AM PT) | [agenda](https://github.com/0xProject/pm/issues/26) |  | 
  25 | March 10, 2020 21:30 UTC (1:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/25) | [slides](https://link.0x.org/2020-03_DevMtg) | [recording](https://youtu.be/2dC__Jm2T2g) 
  24 | February 18, 2020 22:30 UTC (2:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/24) | [slides](https://drive.google.com/open?id=1BJDRwqgTayERK1bssEG4vtwzJESL1tdi) | [recording](https://www.youtube.com/watch?v=miQCsoqt2mg) 
  23 | January 16, 2020 22:30 UTC (2:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/23) | [slides](https://drive.google.com/open?id=1uYJBDMTzi_dZTNISRtZTN7xP2Wy-up5h) | [recording](https://youtu.be/Mr60Tvscnu8)
@@ -39,4 +39,4 @@ Meeting agendas are posted to [github.com/0xProject/pm/issues](https://github.co
  04 | April 23, 2018 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/4) | [slides](https://docs.google.com/presentation/d/16lIPxv8xIwd_kN0IQuIJWyM-hVU6nvZHSzgfTq6OzBo/edit?usp=sharing) | [recording](https://drive.google.com/open?id=1Am_sE56G6smT0piLlBEHc7sTs5EmPVdl) |
  03 | March 26, 2018 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/3) || [recording](https://drive.google.com/open?id=1hxva9HiKxHSQv0BRYrsF50uejYOUAnF_) |
  02 | February 26, 2018 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/2) || [recording](https://drive.google.com/file/d/1V-l0ouY9nnCHa1vF7Q7g3w_RiwNnu49C/view) |
- 01 | January 29, 2018 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/1) || [recording (audio-only)](https://drive.google.com/file/d/1Y_q6ko_j-ntHZ_pZhK67VXgnlLLxlvLK/view) |
+ 01 | January 29, 2018 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/1) | - | [recording (audio-only)](https://drive.google.com/file/d/1Y_q6ko_j-ntHZ_pZhK67VXgnlLLxlvLK/view) |
