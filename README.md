@@ -14,9 +14,9 @@ Meeting agendas are posted to [github.com/0xProject/pm/issues](https://github.co
 --- | -------------------------------- | -------- | -------- | ----------- |
  **2020**
  27 | UPCOMING: June 2, 2020 / 21:30 UTC (1:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/28) | |
- 27 | May 5, 2020 | 21:30 UTC (1:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/27) | [slides](https://link.0x.org/2020-05_DevMtg) | [recording](https://youtu.be/BOHujNezc8k)
- 26 | April 7, 2020 | 17:00 UTC (10:00 AM PT) | [agenda](https://github.com/0xProject/pm/issues/26) | [slides](https://drive.google.com/open?id=1spmaQy-tJdbLwKcRqUCElTKpe7Q2THkH) | [recording](https://youtu.be/eCDt6OR9YNo) 
- 25 | March 10, 2020 | 21:30 UTC (1:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/25) | [slides](https://link.0x.org/2020-03_DevMtg) | [recording](https://youtu.be/2dC__Jm2T2g) 
+ 27 | May 5, 2020 / 21:30 UTC (1:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/27) | [slides](https://link.0x.org/2020-05_DevMtg) | [recording](https://youtu.be/BOHujNezc8k)
+ 26 | April 7, 2020 / 17:00 UTC (10:00 AM PT) | [agenda](https://github.com/0xProject/pm/issues/26) | [slides](https://drive.google.com/open?id=1spmaQy-tJdbLwKcRqUCElTKpe7Q2THkH) | [recording](https://youtu.be/eCDt6OR9YNo) 
+ 25 | March 10, 2020 / 21:30 UTC (1:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/25) | [slides](https://link.0x.org/2020-03_DevMtg) | [recording](https://youtu.be/2dC__Jm2T2g) 
  24 | February 18, 2020 / 22:30 UTC (2:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/24) | [slides](https://drive.google.com/open?id=1BJDRwqgTayERK1bssEG4vtwzJESL1tdi) | [recording](https://www.youtube.com/watch?v=miQCsoqt2mg) 
  23 | January 16, 2020 / 22:30 UTC (2:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/23) | [slides](https://drive.google.com/open?id=1uYJBDMTzi_dZTNISRtZTN7xP2Wy-up5h) | [recording](https://youtu.be/Mr60Tvscnu8)
  **2019**
@@ -32,14 +32,14 @@ Meeting agendas are posted to [github.com/0xProject/pm/issues](https://github.co
  13 | February 5, 2019 / 20:30 UTC (1:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/13) || [recording](https://youtu.be/yYRigm-IiYA) |
  12 | January 7, 2019 / 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/12) |
  **2018**
- 11 | December 3, 2018 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/11) |
- 10 | October 22, 2018 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/10) | [slides](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2068.md) |
- 9 | October 1, 2018 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/9) | [slides](https://docs.google.com/presentation/d/149tVP7JUrMoyyKsgi_jneJm6XJ2hqcHDM4CYEoGN4wI/edit?usp=sharing) |
- 8 | August 27, 2018 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/8) |
- 7 | August 6, 2018 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/7) | [slides](https://docs.google.com/presentation/d/1avtR7DJF5ZX2Y1X5Z0FQjyWx8Bm0StgoCnjz_ak2LII/edit?usp=sharing) |
- 6 | June 25, 2018 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/6) |
- 5 | May 29, 2018 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/5) | [slides](https://docs.google.com/presentation/d/1cbe1KGRHe9uhz-Qa1ijvvvFxteCdNsyP8lzHiBjJ7z0/edit?usp=sharingd) | [recording (audio)](https://drive.google.com/file/d/1vR_vCD6lI6Z7JmPdP5tSkNWKP3N_O9Ur/view) |
- 4 | April 23, 2018 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/4) | [slides](https://docs.google.com/presentation/d/16lIPxv8xIwd_kN0IQuIJWyM-hVU6nvZHSzgfTq6OzBo/edit?usp=sharing) | [recording (audio)](https://drive.google.com/open?id=1Am_sE56G6smT0piLlBEHc7sTs5EmPVdl) |
- 3 | March 26, 2018 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/3) || [recording (audio)](https://drive.google.com/open?id=1hxva9HiKxHSQv0BRYrsF50uejYOUAnF_) |
- 2 | February 26, 2018 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/2) || [recording (audio)](https://drive.google.com/file/d/1V-l0ouY9nnCHa1vF7Q7g3w_RiwNnu49C/view) |
- 1 | January 29, 2018 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/1) || [recording (audio)](https://drive.google.com/file/d/1Y_q6ko_j-ntHZ_pZhK67VXgnlLLxlvLK/view) |
+ 11 | December 3, 2018 / 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/11) |
+ 10 | October 22, 2018 / 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/10) | [slides](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2068.md) |
+ 9 | October 1, 2018 / 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/9) | [slides](https://docs.google.com/presentation/d/149tVP7JUrMoyyKsgi_jneJm6XJ2hqcHDM4CYEoGN4wI/edit?usp=sharing) |
+ 8 | August 27, 2018 / 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/8) |
+ 7 | August 6, 2018 / 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/7) | [slides](https://docs.google.com/presentation/d/1avtR7DJF5ZX2Y1X5Z0FQjyWx8Bm0StgoCnjz_ak2LII/edit?usp=sharing) |
+ 6 | June 25, 2018 / 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/6) |
+ 5 | May 29, 2018 / 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/5) | [slides](https://docs.google.com/presentation/d/1cbe1KGRHe9uhz-Qa1ijvvvFxteCdNsyP8lzHiBjJ7z0/edit?usp=sharingd) | [recording (audio)](https://drive.google.com/file/d/1vR_vCD6lI6Z7JmPdP5tSkNWKP3N_O9Ur/view) |
+ 4 | April 23, 2018 / 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/4) | [slides](https://docs.google.com/presentation/d/16lIPxv8xIwd_kN0IQuIJWyM-hVU6nvZHSzgfTq6OzBo/edit?usp=sharing) | [recording (audio)](https://drive.google.com/open?id=1Am_sE56G6smT0piLlBEHc7sTs5EmPVdl) |
+ 3 | March 26, 2018 / 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/3) || [recording (audio)](https://drive.google.com/open?id=1hxva9HiKxHSQv0BRYrsF50uejYOUAnF_) |
+ 2 | February 26, 2018 / 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/2) || [recording (audio)](https://drive.google.com/file/d/1V-l0ouY9nnCHa1vF7Q7g3w_RiwNnu49C/view) |
+ 1 | January 29, 2018 / 19:30 UTC (12:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/1) || [recording (audio)](https://drive.google.com/file/d/1Y_q6ko_j-ntHZ_pZhK67VXgnlLLxlvLK/view) |
