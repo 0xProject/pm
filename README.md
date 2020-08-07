@@ -13,10 +13,10 @@ Meeting agendas are posted to [github.com/0xProject/pm/issues](https://github.co
  №  | Date                             |           |           |           |
 --- | -------------------------------- | -------- | -------- | ----------- |
  **2020**
- 30 | **UPCOMING** - September 1, 2020 / 21:00 UTC (2:00 PM PT) | [agenda](https://github.com/0xProject/pm/issues/31) |  | 
- 29 | August 4, 2020 / 21:00 UTC (2:00 PM PT) | [agenda](https://github.com/0xProject/pm/issues/30) | [slides](https://link.0x.org/2020-08_DevMtg)  | [recording](https://youtu.be/umuSQHDCons) 
- 28 | July 1, 2020 / 21:00 UTC (2:00 PM PT) | [agenda](https://github.com/0xProject/pm/issues/29) | [slides](https://link.0x.org/2020-07_DevMtg) | [recording](https://youtu.be/g02OvcQH2j0)
- 27 | June 2, 2020 / 20:30 UTC (1:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/28) | [slides](https://link.0x.org/2020-06_DevMtg) | [recording](https://youtu.be/PvQghNKObq4)
+ 31 | **UPCOMING** - September 1, 2020 / 21:00 UTC (2:00 PM PT) | [agenda](https://github.com/0xProject/pm/issues/31) |  | 
+ 30 | August 4, 2020 / 21:00 UTC (2:00 PM PT) | [agenda](https://github.com/0xProject/pm/issues/30) | [slides](https://link.0x.org/2020-08_DevMtg)  | [recording](https://youtu.be/umuSQHDCons) 
+ 29 | July 1, 2020 / 21:00 UTC (2:00 PM PT) | [agenda](https://github.com/0xProject/pm/issues/29) | [slides](https://link.0x.org/2020-07_DevMtg) | [recording](https://youtu.be/g02OvcQH2j0)
+ 28 | June 2, 2020 / 20:30 UTC (1:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/28) | [slides](https://link.0x.org/2020-06_DevMtg) | [recording](https://youtu.be/PvQghNKObq4)
  27 | May 5, 2020 / 20:30 UTC (1:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/27) | [slides](https://link.0x.org/2020-05_DevMtg) | [recording](https://youtu.be/BOHujNezc8k)
  26 | April 7, 2020 / 17:00 UTC (10:00 AM PT) | [agenda](https://github.com/0xProject/pm/issues/26) | [slides](https://link.0x.org/2020-04_DevMtg) | [recording](https://youtu.be/eCDt6OR9YNo) 
  25 | March 10, 2020 / 21:30 UTC (1:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/25) | [slides](https://link.0x.org/2020-03_DevMtg) | [recording](https://youtu.be/2dC__Jm2T2g) 
