@@ -6,7 +6,7 @@ This meeting is a monthly gathering of the individuals who are building decentra
 * Discussing active [governance and research topics](https://forum.0x.org)
 * Hearing updates from the 0x project ecosystem
 
-While there is a formal agenda, the meeting is intended to be an open conversation where everyone is encouraged to ask questions and share their feedback on the development of 0x Labs technology.
+While there is a formal agenda, the meeting is intended to be an open conversation where everyone is encouraged to ask questions and share their feedback on the development roadmap.
 
 ### Who Can Attend
 Anyone who is currently building, or is interested in building, on 0x tech is welcome to participate. Please note that this meeting is not for technical support. If you need help with your project, our official [Discord Chat](https://link.0x.org/Discord) is your best resource.
