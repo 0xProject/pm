@@ -1,9 +1,15 @@
-## 0x Ecosystem Developer Meetings
+## 0x Labs Ecosystem Developer and Governance Meetings
 ### Purpose
-The 0x Ecosystem Developer meeting is a monthly gathering of the developers who are building decentralized applications using the 0x protocol. The 0x Core Team will share the latest development updates, discuss various [ZEIPs](https://github.com/0xProject/ZEIPs) to improve the protocol and answer questions from the community. While there is always a formal agenda, the meeting is intended to be an open conversation where project teams are encouraged to share their thoughts on the development of the protocol.
+This meeting is a monthly gathering of the individuals who are building decentralized applications on, and driving the governance of, the 0x protocol. The typical agenda includes: 
+* Reviewing the 0x Labs development roadmap and updates
+* Exploring various [ZEIPs](https://github.com/0xProject/ZEIPs)
+* Discussing active [governance and research topics](https://forum.0x.org)
+* Hearing updates from the 0x project ecosystem
+
+While there is a formal agenda, the meeting is intended to be an open conversation where everyone is encouraged to ask questions and share their feedback on the development of 0x Labs technology.
 
 ### Who Can Attend
-Anyone who is currently building, or is interested in building, on 0x is welcome to participate. Please note that this meeting is not for technical support. If you need help with your project, our official [Discord Chat](https://link.0x.org/Discord) is your best resource.
+Anyone who is currently building, or is interested in building, on 0x tech is welcome to participate. Please note that this meeting is not for technical support. If you need help with your project, our official [Discord Chat](https://link.0x.org/Discord) is your best resource.
 
 ### Agenda Items
 Meeting agendas are posted to [github.com/0xProject/pm/issues](https://github.com/0xProject/pm/issues). We encourge participants to provide feedback on the agenda or ask questions they have for the 0x Core Team by posting a comment. Also, if there is a topic that you'd like us to discuss during the meeting, you are welcome to suggest it prior to the meeting.
@@ -13,7 +19,7 @@ Meeting agendas are posted to [github.com/0xProject/pm/issues](https://github.co
  №  | Date                             |           |           |           |
 --- | -------------------------------- | -------- | -------- | ----------- |
  **2020**
- 31 | **UPCOMING** - September 1, 2020 / 21:00 UTC (2:00 PM PT) | [agenda](https://github.com/0xProject/pm/issues/31) |  | 
+ 31 | September 1, 2020 / 21:00 UTC (2:00 PM PT) | [agenda](https://github.com/0xProject/pm/issues/31) |  | 
  30 | August 4, 2020 / 21:00 UTC (2:00 PM PT) | [agenda](https://github.com/0xProject/pm/issues/30) | [slides](https://link.0x.org/2020-08_DevMtg)  | [recording](https://youtu.be/umuSQHDCons) 
  29 | July 1, 2020 / 21:00 UTC (2:00 PM PT) | [agenda](https://github.com/0xProject/pm/issues/29) | [slides](https://link.0x.org/2020-07_DevMtg) | [recording](https://youtu.be/g02OvcQH2j0)
  28 | June 2, 2020 / 20:30 UTC (1:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/28) | [slides](https://link.0x.org/2020-06_DevMtg) | [recording](https://youtu.be/PvQghNKObq4)
