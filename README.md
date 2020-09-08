@@ -1,4 +1,4 @@
-## 0x Labs Ecosystem Developer and Governance Meetings
+## 0x Labs Developer and Governance Meetings
 ### Purpose
 This meeting is a monthly gathering of the individuals who are building decentralized applications on, and driving the governance of, the 0x protocol. The typical agenda includes: 
 * Reviewing the 0x Labs development roadmap and updates
