@@ -31,7 +31,7 @@ Meeting agendas are posted to [github.com/0xProject/pm/issues](https://github.co
  23 | January 16, 2020 / 22:30 UTC (2:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/23) | [slides](https://link.0x.org/2020-01_DevMtg) | [recording](https://youtu.be/Mr60Tvscnu8)
  **2019**
 22 | December 04, 2019 / 22:00 UTC (2:00 PM PT) | [agenda](https://github.com/0xProject/pm/issues/22) | [slides](https://link.0x.org/2019-12_DevMtg) | [recording](https://youtu.be/VmOdu_eB9RY)
- 21 | October 01, 2019 / 21:00 UTC (2:00 PM PT) | [agenda](https://github.com/0xProject/pm/issues/21) | [slides](https://link.0x.org/2020-10_DevMtg) | [recording](https://youtu.be/vNaCxl0vvh0) |
+ 21 | October 01, 2019 / 21:00 UTC (2:00 PM PT) | [agenda](https://github.com/0xProject/pm/issues/21) | [slides](https://link.0x.org/2019-10_DevMtg) | [recording](https://youtu.be/vNaCxl0vvh0) |
  20 | September 3, 2019 / 21:00 UTC (2:00 PM PT) | [agenda](https://github.com/0xProject/pm/issues/20) | [slides](https://link.0x.org/2019-09_DevMtg) | [recording](https://youtu.be/h0BH0ovIbwo) | 
  19 | August 7, 2019 / 22:00 UTC (3:00 PM PT) | [agenda](https://github.com/0xProject/pm/issues/19) | [slides](https://link.0x.org/2019-08_DevMtg) | [recording](https://youtu.be/isbzlNG-CGI) |
  18 | July 2, 2017 / 20:30 UTC (1:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/18) | [slides](https://link.0x.org/2019-07-02_DevMtg) | [recording](https://youtu.be/ZUEGhjhbb2Q) |
