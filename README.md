@@ -8,8 +8,8 @@ This meeting is a monthly gathering of the individuals who are building decentra
 
 While there is a formal agenda, the meeting is intended to be an open conversation where everyone is encouraged to ask questions and share their feedback on the development roadmap.
 
-### Who Can Attend
-Anyone who is currently building, or is interested in building, on 0x technology is welcome to participate. Please note that this meeting is not for technical support. If you need help with your project, our official [Discord Chat](https://link.0x.org/Discord) is your best resource.
+### Who Should Attend
+Anyone building on 0x Labs technology or interested in participating in the protocol's governance is welcome to attend. Please note that this meeting is not for technical support. If you need help with your project, our official [Discord Chat](https://link.0x.org/Discord) is your best resource.
 
 ### Agenda Items
 Meeting agendas are posted to [github.com/0xProject/pm/issues](https://github.com/0xProject/pm/issues). We encourge participants to provide feedback on the agenda or ask questions they have for the 0x Core Team by posting a comment. Also, if there is a topic that you'd like us to discuss during the meeting, you are welcome to suggest it prior to the meeting.
