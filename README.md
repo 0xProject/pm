@@ -2,9 +2,10 @@
 ### Purpose
 This meeting is a monthly gathering of the individuals who are building decentralized applications on, and driving the governance of, the 0x protocol. The typical agenda includes: 
 * Reviewing the 0x Labs development roadmap and updates
-* Exploring various [ZEIPs](https://github.com/0xProject/ZEIPs)
+* Exploring 0x improvement proposals, or [ZEIPs](https://github.com/0xProject/ZEIPs)
 * Discussing active [governance and research topics](https://forum.0x.org)
-* Hearing updates from the 0x project ecosystem
+* Updates from the 0x ecosystem
+* An open sharing and discussion session
 
 While there is a formal agenda, the meeting is intended to be an open conversation where everyone is encouraged to ask questions and share their feedback on the development roadmap.
 
