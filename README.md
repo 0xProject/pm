@@ -1,4 +1,7 @@
-## 0x Labs Developer and Governance Meetings
+## 0x Labs Community and Governance Meetings
+
+⚠️ NOTICE: The official schedule is now being maintained on our [Governance and Research forum](https://forum.0x.org/c/schedule/20) ⚠️
+
 ### Purpose
 This meeting is a monthly gathering of the individuals who are building decentralized applications on, and driving the governance of, the 0x protocol. The typical agenda includes: 
 * Reviewing the 0x Labs development roadmap and updates
@@ -20,7 +23,6 @@ Meeting agendas are posted to [github.com/0xProject/pm/issues](https://github.co
  №  | Date                             |           |           |           |
 --- | -------------------------------- | -------- | -------- | ----------- |
 **2021**
- 36 | **[UPCOMING]** February 9, 2020 / 21:30 UTC (1:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/36) |
  35 | January 12, 2020 / 21:30 UTC (1:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/35) | [slides](https://link.0x.org/2021-01_CGM) | [recording](https://youtu.be/rah14cmuxT4)  
 **2020**
  34 | December 08, 2020 / 22:00 UTC (2:00 PM PT) | [agenda](https://github.com/0xProject/pm/issues/34) | [slides](https://link.0x.org/2020-12_DGM) | [recording](https://youtu.be/RktM7-O2zjM) 
