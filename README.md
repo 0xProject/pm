@@ -22,8 +22,6 @@ Meeting agendas are posted to [github.com/0xProject/pm/issues](https://github.co
 [Sync the calendar](https://support.google.com/calendar/answer/37648?hl=en) to keep up to date with upcoming meetings: [link.0x.org/google_calendar](https://link.0x.org/google_calendar)
  №  | Date                             |           |           |           |
 --- | -------------------------------- | -------- | -------- | ----------- |
-**2021**
- 35 | January 12, 2020 / 21:30 UTC (1:30 PM PT) | [agenda](https://github.com/0xProject/pm/issues/35) | [slides](https://link.0x.org/2021-01_CGM) | [recording](https://youtu.be/rah14cmuxT4)  
 **2020**
  34 | December 08, 2020 / 22:00 UTC (2:00 PM PT) | [agenda](https://github.com/0xProject/pm/issues/34) | [slides](https://link.0x.org/2020-12_DGM) | [recording](https://youtu.be/RktM7-O2zjM) 
  33 | November 10, 2020 / 19:00 UTC (11:00 AM PT) | [agenda](https://github.com/0xProject/pm/issues/33) | [slides](https://link.0x.org/2020-11_DGM) | [recording](https://youtu.be/kh0HlSPw00I)
