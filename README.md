@@ -15,11 +15,6 @@ While there is a formal agenda, the meeting is intended to be an open conversati
 ### Who Should Attend
 Anyone building on 0x Labs technology or interested in participating in the protocol's governance is welcome to attend. Please note that this meeting is not for technical support. If you need help with your project, our official [Discord Chat](https://link.0x.org/Discord) is your best resource.
 
-### Agenda Items
-Meeting agendas are posted to [github.com/0xProject/pm/issues](https://github.com/0xProject/pm/issues). We encourge participants to provide feedback on the agenda or ask questions they have for the 0x Labs team by posting a comment. Also, if there is a topic that you'd like us to discuss during the meeting, please suggest it prior to the meeting.
-
-### Meetings
-[Sync the calendar](https://support.google.com/calendar/answer/37648?hl=en) to keep up to date with upcoming meetings: [link.0x.org/google_calendar](https://link.0x.org/google_calendar)
  №  | Date                             |           |           |           |
 --- | -------------------------------- | -------- | -------- | ----------- |
 **2020**
