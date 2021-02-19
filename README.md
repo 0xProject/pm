@@ -1,6 +1,6 @@
 ## 0x Labs Community and Governance Meetings
 
-⚠️  NOTICE: The official schedule is now being maintained on our [Governance and Research forum](https://forum.0x.org/c/schedule/20) ⚠️
+⚠️   NOTICE: The official schedule is now being maintained on our [Governance and Research forum](https://forum.0x.org/c/schedule/20) ⚠️
 
 ### Purpose
 This meeting is a monthly gathering of the individuals who are building decentralized applications on, and driving the governance of, the 0x protocol. The typical agenda includes: 
